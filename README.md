@@ -1,7 +1,7 @@
 # SJF-Scheduling
 preemptive-SJF (Shortest Jop First) Scheduling , Small Simulation To The Algorithm using JAVA
 ## Explanation of the algorithm and the code
-- SJF most commom algorithm in CPU scheduling 
+- SJF most common algorithm in CPU scheduling 
 - SJF "Shortest Jop First" form its name the algorithm priority for the process that have shortest jop (time execution)
 - the code handle almost all cases 
 - the first input are number of processes and the context switching value (that`s Fixed Value , the time that the CPU to take to switch to other process)
